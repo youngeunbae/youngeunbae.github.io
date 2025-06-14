@@ -105,11 +105,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    measurement_id       : "G-VL3B3S8J5C" # REPLACE with your actual GA4 Measurement ID (e.g., G-ABCDE12345)
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    measurement_id       : "G-VL3B3S8J5C"
+    # tracking_id          :
+    # anonymize_ip         : # true, false (default)
 
 # Site Author
 author:
