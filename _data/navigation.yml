@@ -1,12 +1,36 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About Me"
+    url: /
+  - title: "Research"
+    url: /research/innovation-adoption-behavior/ # This is still your main Research link
+    subfolders: # Your existing dropdown
+      - title: "Innovation Adoption Behavior"
+        url: /research/innovation-adoption-behavior/
+      - title: "Choice Modeling & Policy Impacts"
+        url: /research/choice-modeling-policy-impacts/
+      - title: "Infrastructure Planning & Needs"
+        url: /research/infrastructure-planning-needs/
+      - title: "Servitized Models (XaaS)"
+        url: /research/servitized-models-xaas/
+      - title: "Safety & Resilience"
+        url: /research/safety-resilience/
+      - title: "Ideas in Development"
+        url: /research/ideas-in-development/
+  - title: "Blog"
+    url: /blog/
+
+# --- NEW SECTION FOR RESEARCH SUB-NAVIGATION ---
+research_nav:
+  - title: "Innovation Adoption Behavior"
+    url: /research/innovation-adoption-behavior/
+  - title: "Choice Modeling & Policy Impacts"
+    url: /research/choice-modeling-policy-impacts/
+  - title: "Infrastructure Planning & Needs"
+    url: /research/infrastructure-planning-needs/
+  - title: "Servitized Models (XaaS)"
+    url: /research/servitized-models-xaas/
+  - title: "Safety & Resilience"
+    url: /research/safety-resilience/
+  - title: "Ideas in Development"
+    url: /research/ideas-in-development/

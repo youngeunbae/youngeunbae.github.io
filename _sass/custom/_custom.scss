@@ -1,0 +1,65 @@
+/* E:\My Website\youngeunbae.github.io\_sass\custom\_custom.scss */
+
+// --- 1. Overall Font Size Adjustments ---
+// Override default font sizes
+// (You'll need to experiment with these values)
+$type-size-1: 2.2em; // Used for H1 headings
+$type-size-2: 1.8em; // Used for H2 headings
+$type-size-3: 1.5em; // Used for H3 headings
+$type-size-4: 1.2em; // Used for H4 headings
+$type-size-5: 1.0em; // Used for H5 headings / base font for paragraphs
+$type-size-6: 0.9em; // Used for H6 headings / small text
+$type-size-7: 0.8em; // Smaller text
+$type-size-8: 0.7em; // Smallest text
+
+body {
+  font-size: $type-size-5; // Or a specific px/em value if you prefer
+}
+
+// --- 2. Remove Space Between Bullet Points ---
+ul li, ol li {
+  margin-bottom: 0; // Removes the space
+  // You can also try a small value if you want just a tiny bit of space
+  // margin-bottom: 0.1em;
+}
+
+// --- 3. Highlight Active Navigation Link ---
+.greedy-nav__nav .nav__link.active,
+.greedy-nav__nav .nav__sub-link.active {
+  color: #007bff; /* Example: A nice blue color (adjust as needed) */
+  font-weight: bold; /* Make it bold for more emphasis */
+}
+
+// Optional: Also highlight the parent menu item if a sub-item is active
+.greedy-nav__nav .greedy-nav__list-item.active > .nav__link {
+  color: #007bff; /* Use the same highlight color */
+  font-weight: bold;
+}
+
+// --- 4. Adjust Main Content Column Width ---
+.page__content {
+  max-width: 950px; /* Adjust this value (e.g., 900px, 1000px, 1100px) */
+}
+
+.layout--single__wrapper {
+    max-width: 1200px; /* Adjust this value as well if needed for overall layout width */
+}
+
+/* Adjust Sidebar Text Size */
+.sidebar .sidebar__footer {
+  font-size: 0.95em; /* Start with this value. Default is often around 0.8em or 0.85em.
+                        Try 1.0em for base size, 1.1em for slightly larger, etc. */
+  line-height: 1.6; /* Optional: Adjust line height for better readability if text becomes denser */
+}
+
+/* Adjust Sidebar Icon Sizes (optional, but often looks good if text increases) */
+.sidebar .sidebar__footer .fas,
+.sidebar .sidebar__footer .fab {
+  font-size: 1.1em; /* Make Font Awesome icons slightly larger or match the new text size */
+  vertical-align: middle; /* Helps align icons with text on the same line */
+}
+
+/* For the specific "Youngeun" pronunciation text, which might be in a paragraph */
+.sidebar .sidebar__footer p {
+    font-size: 1em; // Example: Set this specific paragraph to a desired size
+}
