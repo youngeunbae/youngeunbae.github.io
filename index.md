@@ -53,5 +53,5 @@ Emerging technologies, Innovation adoption behavior, Demand modeling and forecas
 ## News
 
 * Two policy briefs published (Feb 2025):  
-[What Matters Most to Drayage Companies When Considering a Zero-Emission Truck?](https://doi.org/10.7922/G2DZ06NP)  
-[Navigating the Shift: Critical Insights of California Fleet Operators into Zero-Emission Technologies](https://doi.org/10.7922/G2PG1Q3R)
+▸ [What Matters Most to Drayage Companies When Considering a Zero-Emission Truck?](https://doi.org/10.7922/G2DZ06NP)  
+▸ [Navigating the Shift: Critical Insights of California Fleet Operators into Zero-Emission Technologies](https://doi.org/10.7922/G2PG1Q3R)

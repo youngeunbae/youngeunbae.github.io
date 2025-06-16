@@ -29,6 +29,10 @@ Understanding heavy-duty vehicle (HDV) fleet operator behavior with respect to a
   <figcaption style="font-size: 0.95em; color: #050821;">Factors Influencing AFV Adoption Decisions Among Participating HDV Fleets. Adapted from Bae et al. (2022), Table 4.</figcaption>
 </figure>
 
+<figure>
+  <img src="/assets/images/afv-adoption-factors-hdv-framework-bae2022.png" alt="Framework for Heavy-duty AFV Fleet Adoption Decisions in California" class="zoom--enabled">
+  <figcaption style="font-size: 0.95em; color: #050821;">A Framework for Heavy-duty AFV Fleet Adoption Decisions in California. Adapted from Bae et al. (2022), Fig. 3.</figcaption>
+</figure>
 
 ## Organizational Decision-making Processes of Alternative Fuel Adoption
 Adoption of alternative fuel vehicle (AFV) fleets can bring substantial reduction in greenhouse gas emissions and criteria air pollutants, which can thus help mitigate climate change and improve local air quality. A better understanding of demand-side characteristics of the AFV fleet market is crucial to foster the transition towards zero-emission transportation. However, there is a scant body of literature of the AFV fleet adoption area, particularly in the heavy-duty vehicle (HDV) sector. This study explored the decision-making processes of alternative fuel adoption in organizations that have made a decision to adopt or to not adopt heavy-duty AFVs in California. Based on semi-structured qualitative interviews with 18 organizations, followed by thematic analysis, specific decision-making steps were explored in depth, four distinct patterns of the decision processes were discussed, and challenges and facilitators underlying the processes were identified. The study findings serve as the first step towards enhancing our understanding of organizational decision-making processes of heavy-duty AFV adoption, which can contribute to formulating effective policy strategies aiming rapid and wide diffusion of AFVs throughout the entire HDV market.  
