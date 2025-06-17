@@ -34,7 +34,7 @@ Given that small fleets (defined as those with 20 or fewer vehicles) represent a
 
 <figure>
   <img src="/assets/images/zev-policy-business-plans-bae2025b.png" alt="Business Plans in Response to ZEV Policy: Small vs. Large Fleets" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">Business Plans in Response to ZEV Policy: Small vs. Large Fleets. Adapted from Bae et al. (2025c), Fig. 7.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">Business Plans in Response to ZEV Regulations: Small vs. Large Fleets. Adapted from Bae et al. (2025c), Fig. 7.</figcaption>
 </figure>
 
 ## Fleet operator perspectives on alternative fuels for heavy-duty vehicles
