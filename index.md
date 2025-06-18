@@ -11,7 +11,7 @@ sidebar:
     text: | # Use | for multi-line text block, maintain indentation
       *Youngeun* is pronounced _Yeong-eun_, like “_Young + un_”
       
-      [<i class="fas fa-envelope"></i>](mailto:ybaephd@gmail.com) ybaephd at gmail dot comu  
+      [<i class="fas fa-envelope"></i>](mailto:ybaephd@gmail.com) ybaephd at gmail dot com  
       <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/youngeun-bae-b7424013b/)  
       <i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=WkcFoTwAAAAJ&hl=en&oi=ao)  
       <i class="fab fa-orcid"></i> [ORCiD](https://orcid.org/0000-0003-0798-6418)  
