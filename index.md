@@ -31,7 +31,7 @@ I welcome collaboration with researchers, policymakers, and industry leaders to 
 Ph.D., Civil and Environmental Engineering (Transportation)  
  &nbsp;&nbsp;&nbsp;&nbsp;_University of California, Irvine_  
  &nbsp;&nbsp;&nbsp;&nbsp;[[Link to Dissertation]](https://escholarship.org/uc/item/8837p750)  
-M.S., Civil and Environmental Engineering (GIS)  
+M.S., Civil and Environmental Engineering (GIS/Spatial Informatics)  
  &nbsp;&nbsp;&nbsp;&nbsp;_Seoul National University_  
 B.S., Civil, Urban and Geosystem Engineering  
  &nbsp;&nbsp;&nbsp;&nbsp;_Seoul National University_  

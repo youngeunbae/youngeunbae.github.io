@@ -11,10 +11,10 @@ I study how people (organizational decision-makers and end users) respond to pro
 
 ## A Choice Experiment Survey of Drayage Fleet Operator Preferences for Zero-Emission Trucks
 Many U.S. states are supporting the transition of the heavy-duty vehicle (HDV) sector to zero-emission vehicles (ZEVs), with California leading the way through its policy and regulatory initiatives. Within various HDV fleet segments, California’s drayage fleets face stringent targets, requiring all vehicles newly registered in the Truck Regulation Upload, Compliance, and Reporting System to be ZEVs starting January 2024, and all drayage trucks in operation to be zero-emission by 2035. Understanding fleet operator behavior and perspectives is crucial for achieving these goals; however, it remains a critical knowledge gap. This study investigates the preferences and influencing factors for ZEVs among drayage fleet operators in California. We conducted a stated preference choice experiment survey, developed based on previous qualitative studies and literature reviews. With participation from 71 fleets of various sizes and alternative fuel adoption status, we collected 648 choice observations in a dual response design, consisting of a forced choice between ZEVs and a free choice between ZEVs and status quo alternatives. Multinomial logit model analyses revealed driving range and purchase costs as significant factors for ZEV adoption, with charging facility construction costs also critical in hypothetical choices between ZEVs and status quo alternatives. Fleet or organization size also influenced ZEV choices, with large fleets more sensitive to operating costs and small organizations more sensitive to off-site stations. These findings enhance our understanding in this area and provide valuable insights for policymakers dedicated to facilitating the transition of the HDV sector to zero-emission.  
-[[Link to TRB Paper]](https://escholarship.org/uc/item/2sf928j3)  
-[[Link to TRB Poster]](/assets/images/trb-poster-choice-experiment-bae2025a.png)  
+[[Link to Peer-Reviewed Conference Paper]](https://escholarship.org/uc/item/2sf928j3)  
+[[Link to Conference Poster]](/assets/images/trb-poster-choice-experiment-bae2025a.png)  
 [[Link to Policy Brief]](https://doi.org/10.7922/G2DZ06NP)  
-[[Link to Webinar Presentation Slides]](/assets/files/ucits-webinar-presentation-bae2024.pdf)
+[[Link to UC ITS Webinar Presentation Slides]](/assets/files/ucits-webinar-presentation-bae2024.pdf)
 
 <figure>
   <img src="/assets/images/choice-task-overview-bae2025a.png" alt="Overview of Choice Tasks and Resulting Selections from Fleet Survey" class="zoom--enabled">
@@ -28,8 +28,8 @@ Many U.S. states are supporting the transition of the heavy-duty vehicle (HDV) s
 
 ## Small and Large Fleet Perceptions on Zero-emission Trucks and Policies
 Given that small fleets (defined as those with 20 or fewer vehicles) represent a considerable portion of the heavy-duty vehicle (HDV) sector, understanding their perspectives, along with those of large fleets, on zero-emission vehicles (ZEVs) and related policies is crucial for achieving the U.S. HDV sector’s ZEV transition goals. However, research focusing on small fleets or comparing both segments has been limited. Focusing on California’s drayage sector with stringent ZEV transition targets, this study investigates the awareness and perceptions of small and large fleet operators on ZEV technologies and policies established to promote ZEV adoption.  Using a fleet survey, we obtained 71 responses from both small and large fleets. We employed a comprehensive exploratory approach, utilizing descriptive analysis, hypothesis testing, and thematic analysis. Findings reveal that both segments generally rated their ZEV knowledge as close to neutral, with about a third reporting limited awareness of the ZEV policy. Both segments highlighted various adoption barriers, including challenges with infrastructure, costs, and operational compatibility. Business strategies under the ZEV policy differed significantly: small fleets planned to delay or avoid ZEV procurement, with some considering relocation, while large fleets were more proactive, with many already having procured or preparing to procure ZEVs. Both segments voiced concerns about the disproportionate impact on small fleets. The findings enhance our understanding of equity issues in ZEV adoption across fleet segments and offer valuable insights for policymakers committed to a more equitable distribution of the impacts.  
-[[Link to TRB Paper]](https://escholarship.org/uc/item/3xq588x4)  
-[[Link to TRB Poster]](/assets/images/trb-poster-small-and-large-fleets-zet-policies-bae2025b.png)  
+[[Link to Peer-Reviewed Conference Paper]](https://escholarship.org/uc/item/3xq588x4)  
+[[Link to Conference Poster]](/assets/images/trb-poster-small-and-large-fleets-zet-policies-bae2025b.png)  
 [[Link to Policy Brief]](https://doi.org/10.7922/G2DZ06NP)  
 
 <figure>
