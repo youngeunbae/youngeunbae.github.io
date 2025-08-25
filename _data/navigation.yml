@@ -7,16 +7,14 @@ main:
     subfolders: # Your existing dropdown
       - title: "Innovation Adoption Behavior"
         url: /research/innovation-adoption-behavior/
-      - title: "Choice Modeling & Policy Impacts"
-        url: /research/choice-modeling-policy-impacts/
+      - title: "Choice Modeling & Demand Forecasting"
+        url: /research/choice-modeling-demand-forecasting/
       - title: "Infrastructure Planning & Needs"
         url: /research/infrastructure-planning-needs/
       - title: "Servitized Models (XaaS)"
         url: /research/servitized-models-xaas/
       - title: "Safety & Resilience"
         url: /research/safety-resilience/
-      - title: "Ideas in Development"
-        url: /research/ideas-in-development/
   - title: "Blog"
     url: /blog/
 
@@ -24,13 +22,11 @@ main:
 research_nav:
   - title: "Innovation Adoption Behavior"
     url: /research/innovation-adoption-behavior/
-  - title: "Choice Modeling & Policy Impacts"
-    url: /research/choice-modeling-policy-impacts/
+  - title: "Choice Modeling & Demand Forecasting"
+    url: /research/choice-modeling-demand-forecasting/
   - title: "Infrastructure Planning & Needs"
     url: /research/infrastructure-planning-needs/
   - title: "Servitized Models (XaaS)"
     url: /research/servitized-models-xaas/
   - title: "Safety & Resilience"
     url: /research/safety-resilience/
-  - title: "Ideas in Development"
-    url: /research/ideas-in-development/
