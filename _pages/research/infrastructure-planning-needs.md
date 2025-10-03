@@ -16,7 +16,7 @@ Insufficient charging/fueling infrastructure poses a major challenge to achievin
 
 <figure>
   <img src="/assets/images/charging-time-onsite-offsite-bae2025c.png" alt="Acceptable Longest Charging Times at On-Site vs. Off-Site Facilities" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">Acceptable Longest Charging Times at On-Site vs. Off-Site Facilities. Adapted from Bae et al. (2025b), Fig. 8.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">Acceptable Longest Charging Times at On-Site vs. Off-Site Facilities. Adapted from Bae et al. (2025), Fig. 8.</figcaption>
 </figure>
 
 ## Fleet Operator Perspectives on Heavy-duty Vehicle Alternative Fueling Infrastructure
@@ -25,5 +25,5 @@ Despite the aggressive policy goals aiming to transition heavy-duty vehicles (HD
 
 <figure>
   <img src="/assets/images/charging-location-comments-bae2025c.png" alt="Preferred Charging Locations: Qualitative Insights from Fleet Survey" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">Preferred Charging Locations: Qualitative Insights from Fleet Survey. Adapted from Bae et al. (2025b), Fig. 5.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">Preferred Charging Locations: Qualitative Insights from Fleet Survey. Adapted from Bae et al. (2025), Fig. 5.</figcaption>
 </figure>

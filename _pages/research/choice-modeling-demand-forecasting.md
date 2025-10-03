@@ -18,12 +18,12 @@ Many U.S. states are supporting the transition of the heavy-duty vehicle (HDV) s
 
 <figure>
   <img src="/assets/images/choice-task-overview-bae2025a.png" alt="Overview of Choice Tasks and Resulting Selections from Fleet Survey" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">Overview of Choice Tasks and Resulting Selections from Fleet Survey. Adapted from Bae et al. (2025a), Fig. 2.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">Overview of Choice Tasks and Resulting Selections from Fleet Survey. Adapted from Bae et al. (2025), Fig. 2.</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/choice-task-example-bae2025a.png" alt="An Example of Choice Tasks" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">An Example of Choice Tasks. Adapted from Bae et al. (2025a), Fig. 1.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">An Example of Choice Tasks. Adapted from Bae et al. (2025), Fig. 1.</figcaption>
 </figure>
 
 ## Small and Large Fleet Perceptions on Zero-emission Trucks and Policies
@@ -34,7 +34,7 @@ Given that small fleets (defined as those with 20 or fewer vehicles) represent a
 
 <figure>
   <img src="/assets/images/zev-policy-business-plans-bae2025b.png" alt="Business Plans in Response to ZEV Policy: Small vs. Large Fleets" class="zoom--enabled">
-  <figcaption style="font-size: 0.95em; color: #050821;">Business Plans in Response to ZEV Regulations: Small vs. Large Fleets. Adapted from Bae et al. (2025c), Fig. 7.</figcaption>
+  <figcaption style="font-size: 0.95em; color: #050821;">Business Plans in Response to ZEV Regulations: Small vs. Large Fleets. Adapted from Bae et al. (2025), Fig. 7.</figcaption>
 </figure>
 
 ## Fleet Operator Perspectives on Alternative Fuels for Heavy-Duty Vehicles
